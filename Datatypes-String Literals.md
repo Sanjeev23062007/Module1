@@ -14,7 +14,7 @@ men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-![Uploading 439163032-b998caa7-be79-4281-8713-527be2030f2d.png…]()
+![439163032-b998caa7-be79-4281-8713-527be2030f2d](https://github.com/user-attachments/assets/2857f6e9-3dcf-46ab-af3e-f74d8be104e4)
 
 ## Result
 Thus, the program is executed sucessfully.
